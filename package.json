@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexandre-garrec/todo.git"
+    "url": "git+https://github.com/alexandre-garrec/bodymovin-react-web.git"
   },
   "main": "index.js",
   "scripts": {
