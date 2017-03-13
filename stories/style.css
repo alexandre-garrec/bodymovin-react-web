@@ -1,0 +1,8 @@
+/*path {
+  fill: #8e98eb
+}*/
+
+svg path {
+  /* fill:  url('#MyGradient') !important */
+  fill: #8e98eb
+}
